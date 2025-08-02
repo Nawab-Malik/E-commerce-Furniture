@@ -1,0 +1,83 @@
+.touch-t{
+    font-size: 4rem;
+    font-weight: 600;
+    line-height: 1.25;
+    color: #0b5c74;
+    font-family: Playfair Display, 'Source Sans Pro'!important;
+    white-space: nowrap;
+}
+.touch-t1{
+    font-size: 2rem;
+    font-weight: 400;
+    line-height: 1.5;
+    letter-spacing: 0.27rem;
+    text-transform: uppercase;
+    color: #292f36;
+    font-family: Jost, 'Source Sans Pro';
+    white-space: nowrap;
+}
+.icon-t{
+    display: flex;
+    font-size: 1.8rem;
+    font-weight: 400;
+    line-height: 1.3888888889;
+    letter-spacing: 0.016rem;
+    text-transform: uppercase;
+    color: #050505;
+    font-family: Jost, 'Source Sans Pro';
+}
+.touch-img{
+    width: 40px!important;
+    height: 40px;
+}
+.nam{
+    height: 6vh!important;
+    /* border-radius: 10%!important; */
+}
+.form-label{
+    font-size: 1.6rem;
+}
+.tt{
+    margin-top: 8%;
+    margin-bottom: 8%;
+}
+@media only screen and (max-width: 1000px) {
+    
+    .touch-t{
+    font-size: 3rem;
+    }
+.touch-t1{
+    font-size: 1.2rem;
+}
+.touch-img{
+    
+    width: 30px!important;
+    height: 30px;
+}
+.icon-t{
+    font-size: 1.3rem;
+}
+
+}
+
+
+@media only screen and (max-width: 520px) {
+    
+    .touch-t{
+    font-size: 2rem;
+    }
+.touch-t1{
+    font-size: 1rem;
+    line-height: 0%;
+    letter-spacing: 0rem;
+}
+.touch-img{
+    
+    width: 20px!important;
+    height: 20px;
+}
+.icon-t{
+    font-size: 1.3rem;
+}
+
+}

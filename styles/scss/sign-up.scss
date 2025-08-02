@@ -1,0 +1,185 @@
+
+html {
+	font-size:62.5%;
+}
+* {
+	margin: 0;
+	padding: 0;
+}
+ul, li {
+	list-style: none;
+}
+input {
+	border: none;
+}
+body {
+  width: 56rem;
+}.sign-up-kvR {
+  padding: 3rem 0rem 4rem 0rem;
+  flex-direction: column;
+  box-shadow: 0 0.2rem 0.5rem rgba(0, 0, 0, 0.200000003);
+  background-color: #ffffff;
+  box-sizing: border-box;
+  width: 100%;
+  align-items: center;
+  display: flex;
+  border-radius: 0.8rem;
+
+  .form-f1o {
+    padding: 0rem 22.4rem 0rem 22.5rem;
+    font-family: Playfair Display, 'Source Sans Pro';
+    flex-shrink: 0;
+    border: solid 0.1rem #f1f1f1;
+    font-size: 3.2rem;
+    font-weight: 600;
+    color: #292f36;
+    white-space: nowrap;
+    line-height: 0.75;
+    margin-bottom: 3.5rem;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    box-sizing: border-box;
+    width: 100%;
+    height: 5.1rem;
+  }
+  .form-rry {
+    width: calc(100% - 10rem);
+    display: flex;
+    flex-direction: column;
+    flex-shrink: 0;
+    margin: 0 5rem;
+
+    .email-Moj {
+      font-family: Jost, 'Source Sans Pro';
+      white-space: nowrap;
+      font-size: 1.4rem;
+      font-weight: 400;
+      line-height: 1.4285714286;
+      flex-shrink: 0;
+      margin-bottom: 1.6rem;
+      display: flex;
+      color: #292f36;
+    }
+    .input-RYh {
+      margin-bottom: 2rem;
+      width: 100%;
+      height: 4.5rem;
+      border: solid 0.1rem #c6c6c6;
+      box-sizing: border-box;
+      border-radius: 1rem;
+      flex-shrink: 0;
+    }
+    .name-9jb {
+      font-weight: 400;
+      flex-shrink: 0;
+      margin-bottom: 1.6rem;
+      display: flex;
+      font-size: 1.4rem;
+      line-height: 1.4285714286;
+      color: #292f36;
+      font-family: Jost, 'Source Sans Pro';
+      white-space: nowrap;
+    }
+    .input-gjX {
+      border-radius: 1rem;
+      flex-shrink: 0;
+      margin-bottom: 2rem;
+      width: 100%;
+      height: 4.5rem;
+      border: solid 0.1rem #c6c6c6;
+      box-sizing: border-box;
+    }
+    .password-Rh7 {
+      font-family: Jost, 'Source Sans Pro';
+      white-space: nowrap;
+      flex-shrink: 0;
+      margin-bottom: 1.6rem;
+      line-height: 1.4285714286;
+      font-weight: 400;
+      color: #292f36;
+      display: flex;
+      font-size: 1.4rem;
+    }
+    .input-ZHX {
+      margin-bottom: 1.95rem;
+      width: 100%;
+      height: 4.5rem;
+      border: solid 0.1rem #c6c6c6;
+      box-sizing: border-box;
+      border-radius: 1rem;
+      flex-shrink: 0;
+    }
+    .label-u6V {
+      margin: 0rem 10.4rem 2.65rem 0rem;
+      width: calc(100% - 10.4rem);
+      display: flex;
+      align-items: center;
+      flex-shrink: 0;
+
+      .input-EeZ {
+        margin: 0.1rem 1rem 0rem 0rem;
+        width: 1.3rem;
+        height: 1.3rem;
+        background-color: #0075ff;
+        border-radius: 0.25rem;
+        flex-shrink: 0;
+      }
+      .i-have-read-and-agree-to-the-terms-conditions-Zgq {
+        font-size: 1.6rem;
+        font-family: Jost, 'Source Sans Pro';
+        align-items: baseline;
+        flex-shrink: 0;
+        white-space: nowrap;
+        display: flex;
+        font-weight: 400;
+        line-height: 1.625;
+        color: #6b7280;
+
+        .i-have-read-and-agree-to-the-terms-conditions-Zgq-sub-0 {
+        }
+        .i-have-read-and-agree-to-the-terms-conditions-Zgq-sub-1 {
+          line-height: 1.625;
+          text-decoration-line: underline;
+          color: #6b7280;
+          font-family: Jost, 'Source Sans Pro';
+          font-size: 1.6rem;
+          font-weight: 500;
+        }
+      }
+    }
+    .input-USR {
+      margin-bottom: 2.4rem;
+      flex-shrink: 0;
+      align-items: center;
+      font-size: 1.8rem;
+      white-space: nowrap;
+      width: 100%;
+      height: 5.2rem;
+      display: flex;
+      font-weight: 500;
+      line-height: 1.4444444444;
+      color: #ffffff;
+      justify-content: center;
+      font-family: Jost, 'Source Sans Pro';
+      background-color: #292f36;
+      border-radius: 0.8rem;
+    }
+    .link-kuj {
+      align-items: center;
+      font-size: 1.8rem;
+      line-height: 1.4444444444;
+      color: #ffffff;
+      font-family: Jost, 'Source Sans Pro';
+      background-color: #f1aa5d;
+      width: 100%;
+      white-space: nowrap;
+      display: flex;
+      flex-shrink: 0;
+      height: 5.2rem;
+      font-weight: 500;
+      border-radius: 0.8rem;
+      justify-content: center;
+    }
+  }
+}
